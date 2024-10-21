@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.pipenv/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Byte-compiled or Cython-compiled files
+*.so
